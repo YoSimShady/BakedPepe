@@ -1,0 +1,19 @@
+{
+  "name": "bakedpepe-site",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "autoprefixer": "^10.4.21",
+    "framer-motion": "^10.12.16",
+    "next": "latest",
+    "postcss": "^8.5.6",
+    "react": "latest",
+    "react-dom": "latest",
+    "tailwindcss": "^4.1.11"
+  }
+}
